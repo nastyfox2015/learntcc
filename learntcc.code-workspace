@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+		"terminal.integrated.env.windows": {
+			"PATH": "C:/Windows/System32;D:/portable-nastyfox2015/MinGit-2.28.0-busybox-64-bit/cmd;D:/portable-nastyfox2015/tcc-0.9.27-win64;",
+			"ALLUSERSPROFILE": "D:\\portable-nastyfox2015\\dev\\nastyfox2015\\ProgramData",
+			"APPDATA": "D:\\portable-nastyfox2015\\dev\\nastyfox2015\\AppData\\Roaming",
+			"COMPUTERNAME": "nastyfox2015",
+			"HOMEDRIVE": "D:",
+			"HOMEPATH": "\\portable-nastyfox2015\\dev\\nastyfox2015",
+			"HOME": "D:\\portable-nastyfox2015\\dev\\nastyfox2015",
+			"USER_HOME": "D:\\portable-nastyfox2015\\dev\\nastyfox2015",
+			"LOCALAPPDATA": "D:\\portable-nastyfox2015\\dev\\nastyfox2015\\AppData\\Local",
+			"LOGONSERVER": "\\nastyfox2015",
+			"USERNAME": "nastyfox2015",
+			"USERPROFILE": "D:\\portable-nastyfox2015\\dev\\nastyfox2015"
+		}
+	}
+}

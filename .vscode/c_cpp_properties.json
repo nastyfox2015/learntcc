@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "TCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/portable-nastyfox2015/tcc-0.9.27-win64/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "D:/portable-nastyfox2015/tcc-0.9.27-win64/tcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
